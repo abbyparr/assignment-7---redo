@@ -5,5 +5,5 @@ d) User-defined functions
 e) My program could be improved by maintaining effectiveness throughout the program. I could have used a more effective layout of my functions, that would be easier for the reader to understand them. 
 
 
-For question 1, I improved the program by 
+For question 1, I improved the program by using for loops to digure out the number of combinations. I also designed the layout more efficient to output the correct values.
 For question 2, I took out each individual part of the string and printed it in order to get the desired output. This is more efficient and should output the correct values. 
